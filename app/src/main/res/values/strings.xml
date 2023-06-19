@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listview</string>
+
+    <string-array name="spinner_items">
+        <item>Hola</item>
+        <item>Hola7</item>
+    </string-array>
+</resources>
